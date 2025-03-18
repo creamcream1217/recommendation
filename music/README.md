@@ -7,4 +7,10 @@
 =======
 
 - [TAKE ME(G-DRAGON)](https://www.youtube.com/watch?v=IgIqM68qvF0)
+<<<<<<< HEAD
 
+=======
+- 이구이 - 사랑 없는 노래
+- 우효 - 민들레
+- 10cm - 너에게 닿기를
+>>>>>>> 2cd4cd7 (Fix: merge conflict)
