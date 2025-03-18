@@ -4,3 +4,4 @@
 - fiftyfifty - Cupid
 - 이무진 - 별자리
 - BTOB - 그리워하다
+- [TAKE ME(G-DRAGON)](https://www.youtube.com/watch?v=IgIqM68qvF0)
